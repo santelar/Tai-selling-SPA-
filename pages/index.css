@@ -1,0 +1,18 @@
+@import url(../vendor/normalize.css);
+
+@import url(../fonts/Playfair_Display/PlayfairDisplay.css);
+@import url(../fonts/Montserrat/Montserrat.css);
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/accent/accent.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/offer/offer.css);
+@import url(../blocks/advantages/advantages.css);
+@import url(../blocks/energy/energy.css);
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/showcase/showcase.css);
+@import url(../blocks/options/options.css);
+@import url(../blocks/feedback/feedback.css);
+@import url(../blocks/order/order.css);
+@import url(../blocks/footer/footer.css);
