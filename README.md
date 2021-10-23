@@ -1,5 +1,7 @@
 # Тестовое задание (верстка).
 
+https://santelar.github.io/Tai-selling-SPA-/
+
 Проект только на HTML и CSS - верстка по тз (БЭМ (Nested)) + адаптив.
 
 ### О проекте -
